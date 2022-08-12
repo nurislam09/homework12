@@ -10,9 +10,6 @@ public class Main {
         System.out.println(dog);
         System.out.println(parrot);
 
-//        System.out.printf("%s","%d","%d","%s", fish.getName(),fish.getAge(),fish.getWeight(),fish.getColor());
-//        System.out.printf("%s","%d","%d","%s",cat.getName(),cat.getAge(),cat.getWeight(),cat.getColor());
-//        System.out.printf("%s","%d","%d","%s",dog.getName(),dog.getAge(),dog.getWeight(),dog.getColor());
-//        System.out.printf("%s","%d","%d","%s",parrot.getName(),parrot.getAge(),parrot.getWeight(),parrot.getColor());
+
     }
 }
